@@ -1,0 +1,18 @@
+Package: net.sarahh12099.youtubereborn
+Version: 1.0.4.3
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 372
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers
+Replaces: com.twickd.sarahh12099.youtube-reborn
+Filename: ./debs/net.sarahh12099.youtubereborn_1.0.4.3_iphoneos-arm.deb
+Size: 37542
+MD5sum: b8590981e0d41752bf6f9af36c094fef
+SHA1: 7f8a32e0bee1f83bf360c72c4f9572c6e6747af0
+SHA256: 648a3657d040d8981eb23298b4e401a5ff2f6138c67d437a43765e888840bd7c
+Section: Tweaks
+Description: YouTube Customizer
+Author: SarahH12099
+Name: YouTube Reborn
+
