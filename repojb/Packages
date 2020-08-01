@@ -1,3 +1,22 @@
+Package: com.bingner.plutil
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: Samuel Bingner
+Installed-Size: 144
+Depends: firmware (>=2.0)
+Conflicts: com.ericasadun.utilities
+Filename: ./debs/com.bingner.plutil_0.2.1_iphoneos-arm.deb
+Size: 27146
+MD5sum: dbe356a058196f723918a342470f0106
+SHA1: 7bbdbc3b585fdc37b268156301e3da8c9a02b844
+SHA256: de81533ef2277948eb1b381f75c71fc92f0f47ed9e9a05139241d4370a7ac7b4
+Section: System
+Multi-Arch: foreign
+Description: plutil as from erica sadun
+Tag: role::hacker
+Author: Samuel Bingner
+Name: plutil
+
 Package: net.sarahh12099.youtubemusicreborn
 Version: 1.0.1.0
 Architecture: iphoneos-arm
