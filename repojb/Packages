@@ -1,3 +1,19 @@
+Package: net.sarahh12099.funimationjbbypass
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/net.sarahh12099.funimationjbbypass_1.0.0.0_iphoneos-arm.deb
+Size: 2936
+MD5sum: 1a5e8c5db1636e7e6193ac98477f2df9
+SHA1: 74b8721404c0b833d9789c6b71453251b6f4cf96
+SHA256: b52fc9150076326e2cd3c072620780ba345854da06cb11b711203892745d86ec
+Section: Tweaks
+Description: Bypass Jailbreak Detection In Funimation
+Author: SarahH12099
+Name: Funimation JB Bypass
+
 Package: net.sarahh12099.gympassjbbypass
 Version: 1.0.0.2
 Architecture: iphoneos-arm
