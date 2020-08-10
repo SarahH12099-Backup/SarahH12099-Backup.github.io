@@ -51,3 +51,19 @@ Description: YouTube Customizer
 Author: SarahH12099
 Name: YouTube Reborn
 
+Package: net.sarahh12099.zoomjbbypass
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/net.sarahh12099.zoomjbbypass_1.0.0.0_iphoneos-arm.deb
+Size: 2776
+MD5sum: 49ac61401feb82084b7dcaee6ee1c7fb
+SHA1: 31df710549bb61aee75156c7f374a4e4376eaa54
+SHA256: 112fccfe0dc9566b21bc780cc729da3c66f38d285a9c677e21fb6b5909225b43
+Section: Tweaks
+Description: Bypass Jailbreak Detection In Zoom
+Author: SarahH12099
+Name: Zoom JB Bypass
+
